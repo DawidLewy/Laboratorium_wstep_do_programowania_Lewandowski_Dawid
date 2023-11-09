@@ -54,25 +54,26 @@ import math
 # b = int(input("Podaj wartość b: "))
 # #Rownanie : 0 = ax + b
 # x = -b / a
-#
+
 # print(f"Rozwiązaniem funkcji liniowej jest x równy: {x:.2f}") #<-- Wynik w postaci l. dziesięten z 2 miejscami po przecinku
 # print(f"Rozwiązaniem funkcji liniowej jest x równy: -{b}/{a}") #<-- Wynik w postaci ułamka
-#
-#
+
+
 # # Zad 2
 # a = int(input("Podaj a: "))
 # b = int(input("Podaj b: "))
 # c = int(input("Podaj c: "))
 # p = (a + b + c) / 2
-#
+
 # Pole = math.sqrt(p*(p - a)*(p - b)*(p - c))
-#
+
 # print(f"Pole trojkata: {Pole:.2f}")
-#
+
+
 # #Zad 3
 # x = int(input("Podaj 1 liczbe: "))
 # y = int(input("Podaj 2 liczbe: "))
-#
+
 # print(f"Dodawanie: {x + y}")
 # print(f"Odejmowanie: {x - y}")
 # print(f"Mnożenie: {x * y}")
