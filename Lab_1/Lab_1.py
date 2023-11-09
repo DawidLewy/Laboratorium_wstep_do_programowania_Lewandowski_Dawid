@@ -153,11 +153,18 @@
 
 #Zad 3
 
+
+# def changing_letter(letter):
+#     if letter.islower():
+#         letter = letter.upper()
+#     elif not letter.islower():
+#         letter = letter.lower()
+#     return  letter
+#
+#
 # letter = input("Podaj literę: ")
 #
-# if letter.islower():
-#     letter = letter.upper()
-# elif not letter.islower():
-#     letter = letter.lower()
+# changed_letter = changing_letter(letter)
 #
-# print(letter)
+# print(f"Litera przed zamianą: {letter}")
+# print(f"Litera po zamianie: {changed_letter}")
